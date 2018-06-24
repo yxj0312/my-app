@@ -2,10 +2,13 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>my-app</title>
+    <title>my-app1</title>
   </head>
   <body>
     <div id="app"></div>
+
+    <div id="app1"><h1>{{ shared.store.user.name }}</h1></div>
+    <div id="app2"><h2>{{ this.shared.store.user.name }}</h2></div>
     <script src="/dist/build.js"></script>
   </body>
 </html>
