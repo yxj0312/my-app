@@ -1,18 +1,17 @@
-# my-app
+## Learn Vue 2: Step By Step
 
-> A Vue.js project
+Vue is easily one of the most exciting additions to the front-end world in many years. With its intuitive API, and the fact that it can be applied to any type of application, it's no wonder why folks have gravitated to it as much as they have.
 
-## Build Setup
+If you'd like to jump on board, let me show you, step by step, exactly what you need to know. It's the best way to learn Vue!
 
-``` bash
-# install dependencies
-npm install
+## Projects
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+- [Ep 16 - myapp](https://github.com/yxj0312/my-app)
+- [Ep 17](https://github.com/yxj0312/my-app)
+- [Ep 25](https://github.com/yxj0312/my-app)
+- [Ep 26 - stream](https://github.com/yxj0312/stream)
+- [Ep 27](https://github.com/yxj0312/stream) 
+- [Ep 28](https://github.com/yxj0312/stream) 
+- [Ep 29](https://github.com/yxj0312/stream) 
+- [Ep 30](https://github.com/yxj0312/stream)
+- [Ep 30 -  TestingVue](https://github.com/yxj0312/TestingVue/commit/15274c6d3f370720c115c07f32acd888e4523614)
